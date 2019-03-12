@@ -1,2 +1,2 @@
-# scaas-store
-A simple CRUD chaincode template
+# simple-store
+A simple key-value store chaincode template.
